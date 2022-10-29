@@ -18,7 +18,7 @@ docker run <image_name>
 docker run -it --name <container_name> <image_name>
 ```
 
-- `Ctrl O` — Выход из запущенного контейнера
+- `Ctrl D` — Выход из запущенного контейнера
 
 Запустить контейнер
 
