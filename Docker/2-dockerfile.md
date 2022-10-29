@@ -26,7 +26,7 @@ CMD [ "python", "./main.py" ]
 Создание образа, из папки где лежит Dockerfile запускаем терминал
 
 ```
-docker build .
+docker build -t <image_name> .
 ```
 
 Проверим наш образ
