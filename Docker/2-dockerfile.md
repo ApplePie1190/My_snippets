@@ -6,6 +6,10 @@
 запускаем проект.
 
 ```
+touch Dockerfile
+```
+
+```
 FROM python:latest
 
 WORKDIR /telebot
